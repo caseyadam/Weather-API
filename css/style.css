@@ -1,0 +1,48 @@
+body {
+  /*background-color: #0b2d18;*/
+  color: black;
+  font-family: 'Arsenal', sans-serif;
+  text-align: center;
+  background-size:cover;
+  background-image:url('http://www.weatherwizkids.com/wp-content/uploads/2015/02/fractus-clouds.jpg')
+}
+
+h1 {
+  font-size: 4em;
+  margin-top: 5%;
+}
+p {
+  margin-top: 0.25%;
+  font-size: 3em;
+}
+#dateNow, #condition {
+  font-size: 1.5em;
+}
+#temp {
+  font-size: 6em;
+}
+.well {
+  background-color:white;
+  margin: 15%;
+  border-radius: 25px;
+  padding: 2%
+}
+img {
+  display: block;
+  margin: auto;
+  width: 125px;
+}
+button:hover{
+  background-color:#1d3151;
+}
+button {
+  background-color: #1287a8;
+  color: white;
+  padding: 0.15%;
+  margin: auto;
+  display: block;
+  border-radius: 25px;
+}
+footer {
+  margin-bottom:1%;
+}
